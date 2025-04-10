@@ -1,10 +1,12 @@
 # Vim swap files
 *.swp
 *.swo
+# vscode
+.vscode
 
 # Binary files
-src/wol
-wol
+src/mybot
 
 # Patches
 patches/
+
